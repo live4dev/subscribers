@@ -7,3 +7,4 @@ __pycache__/
 .venv/
 venv/
 subscriber_export.session
+deploy/
